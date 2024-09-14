@@ -1,4 +1,3 @@
-# Memory_Allocator
 **Nume: Baranga Roxana Mary**
 **Grupă: 311CA**
 
